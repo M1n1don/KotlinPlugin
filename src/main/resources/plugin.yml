@@ -1,0 +1,5 @@
+name: KotlinPlugin
+version: '${project.version}'
+main: dev.m1n1don.kotlinplugin.KotlinPlugin
+api-version: 1.16
+author: M1n1don
